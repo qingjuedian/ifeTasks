@@ -62,3 +62,41 @@ h3{font-family:"ºÚÌå";font-weight:bolder;color:grey;}
  .clf{
  	clear: both;
  }
+
+ .regform{
+	padding: 10px 0 10px 60px;
+ }
+
+ .regform-item{
+ 	margin:9px;
+ 	position: relative; 
+ }
+
+ .regform-item-text{
+ 	position: absolute;
+ 	left: 0;
+ 	top:5px;
+ 	text-align: right;
+ 	width: 130px;
+ }
+
+ .regform-item-stl{
+ 	padding: 5px 0 5px 130px;
+ }
+
+ .regform-item-tips{
+ 	padding: 5px 0 2px;
+ 	line-height: 15px;
+ 	color: grey;
+ 	font-size: 12px;
+ }
+ button{
+ 	width: 90%;
+ 	height:30px;
+ 	font-size: 16px;
+ 	line-height: 30px;
+ 	text-align: center;
+ 	color: #fff;
+ 	background-color: blue;
+ 	border-radius: 9px;
+ }
