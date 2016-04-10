@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	bottom: 0; 
+}
+.clr{
+	clear: both;
+}
+.whole{
+	padding: 20px;
+	background-color: #eee;
+	//position: relative;
+}
+.border-stl{
+	border: 1px solid #999;
+}
+.logo{
+	float: left;
+	height: 80px;
+	width: 80px;
+}
+.team-name{
+	margin-left: 90px;
+}
+.picture{
+	margin: 5px;
+}
+.left{
+	float: left;
+	width: 178px;
+	padding: 10px;
+}
+.center{
+	padding: 20px;
+	margin: 0 150px 0 230px;
+}
+.right{
+	float: right;
+	width: 88px;
+	padding: 15px;
+}
